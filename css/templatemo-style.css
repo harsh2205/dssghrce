@@ -126,7 +126,7 @@ h6 {
 }
 /* home section */
 #home {
-  background: url("../images/parallax-bg.png") 70% 0  fixed;
+  background: url("../images/parallax-bg.png") 70% 0 no-repeat fixed;
   color: #ffffff;
   display: -webkit-box;
   display: -webkit-flex;
